@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponBuildEvents.Database", "WeaponBuildEvents\WeaponBuildEvents.Database\WeaponBuildEvents.Database.csproj", "{0203549C-7DD3-4C3B-AFB6-27DB6670AD7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponBuildEvents.DAL", "WeaponBuildEvents\WeaponBuildEvents.DAL\WeaponBuildEvents.DAL.csproj", "{67D5787B-E7C6-46CF-B77A-4D0CA0BE9B53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponBuildEvents.DAL.WCF", "WeaponBuildEvents\WeaponBuildEvents.DAL.WCF\WeaponBuildEvents.DAL.WCF.csproj", "{B540DF9C-07B4-455D-A8D0-AA3455E5489F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponBuildEvents.DAL.WCF.Client", "WeaponBuildEvents\WeaponBuildEvents.DAL.WCF.Client\WeaponBuildEvents.DAL.WCF.Client.csproj", "{DADAE849-C6C8-4DED-AC5B-ABAFA9AE59B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponBuildEvents.DAL.AdminWCF", "WeaponBuildEvents\WeaponBuildEvents.DAL.AdminWCF\WeaponBuildEvents.DAL.AdminWCF.csproj", "{265CEF48-5BE9-448E-A1BF-B284E1A230F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponBuildEvents.DAL.AdminWCF.Client", "WeaponBuildEvents\WeaponBuildEvents.DAL.AdminWCF.Client\WeaponBuildEvents.DAL.AdminWCF.Client.csproj", "{7C635704-DE9D-4813-BFE5-1DC0BF849475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0203549C-7DD3-4C3B-AFB6-27DB6670AD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0203549C-7DD3-4C3B-AFB6-27DB6670AD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0203549C-7DD3-4C3B-AFB6-27DB6670AD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0203549C-7DD3-4C3B-AFB6-27DB6670AD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D5787B-E7C6-46CF-B77A-4D0CA0BE9B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D5787B-E7C6-46CF-B77A-4D0CA0BE9B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D5787B-E7C6-46CF-B77A-4D0CA0BE9B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D5787B-E7C6-46CF-B77A-4D0CA0BE9B53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B540DF9C-07B4-455D-A8D0-AA3455E5489F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B540DF9C-07B4-455D-A8D0-AA3455E5489F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B540DF9C-07B4-455D-A8D0-AA3455E5489F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B540DF9C-07B4-455D-A8D0-AA3455E5489F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DADAE849-C6C8-4DED-AC5B-ABAFA9AE59B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADAE849-C6C8-4DED-AC5B-ABAFA9AE59B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADAE849-C6C8-4DED-AC5B-ABAFA9AE59B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADAE849-C6C8-4DED-AC5B-ABAFA9AE59B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265CEF48-5BE9-448E-A1BF-B284E1A230F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265CEF48-5BE9-448E-A1BF-B284E1A230F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265CEF48-5BE9-448E-A1BF-B284E1A230F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265CEF48-5BE9-448E-A1BF-B284E1A230F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C635704-DE9D-4813-BFE5-1DC0BF849475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C635704-DE9D-4813-BFE5-1DC0BF849475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C635704-DE9D-4813-BFE5-1DC0BF849475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C635704-DE9D-4813-BFE5-1DC0BF849475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
